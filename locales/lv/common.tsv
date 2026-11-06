@@ -155,7 +155,7 @@ theme	Appearance	Izskats
 	Browse	Pārlūkot
 	Browse…	Pārlūkot…
 	Brush Size	Otas izmērs
-	Brush Strokes	Otas vilcieni
+	Brush Strokes	Otas triepieni
 	Brushes	Otas
 	Bulge	Izliekums
 	Bullet	Aizzīme
@@ -290,11 +290,11 @@ theme	Appearance	Izskats
 	Dark	Tumšs
 	Dark Gray	Tumši pelēks
 	Dark gray	Tumši pelēks
-	Dark Strokes	Tumši vilcieni
+	Dark Strokes	Tumši triepieni
 	Dark Theme	Tumšais motīvs
 	Darken	Aptumšot
 	Darkness	Tumšums
-	Dashed	Svītrots
+	Dashed	Raustīts
 	Data	Dati
 	Data Sets	Datu kopas
 	Date	Datums
@@ -686,7 +686,7 @@ theme	Appearance	Izskats
 	Lock Slices	Bloķēt šķēles
 	Locked	Bloķēts
 	Long Lines	Garas līnijas
-	Long Strokes	Gari vilcieni
+	Long Strokes	Gari triepieni
 	Low	Zems
 	lowercase	mazie burti
 	Luminance	Luminance
@@ -1056,7 +1056,7 @@ theme	Appearance	Izskats
 	Sharpness	Asums
 	Shift	Shift
 	Short Lines	Īsas līnijas
-	Short Strokes	Īsi vilcieni
+	Short Strokes	Īsi triepieni
 	Shortcut	Saīsne
 	Shortcuts	Saīsnes
 	Show	Rādīt
@@ -1131,7 +1131,7 @@ theme	Appearance	Izskats
 	Strikethrough	Pārsvītrojums
 	Stroke	Apvilkums
 	Stroke Color	Apvilkuma krāsa
-	Stroke Length	Vilciena garums
+	Stroke Length	Triepiena garums
 	Stroke Options	Apvilkuma opcijas
 	Stroke:	Apvilkums:
 	Studio	Studija

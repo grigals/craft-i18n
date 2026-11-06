@@ -1853,7 +1853,7 @@ calendar date	January	janvāris
 	JavaScript and actions	JavaScript un darbības
 	JavaScript Console	JavaScript konsole
 	JavaScript console…	JavaScript konsole…
-	JavaScript is turned off (Preferences → JavaScript).	JavaScript ir izslēgts (Iestatījumi > JavaScript).
+	JavaScript is turned off (Preferences → JavaScript).	JavaScript ir izslēgts (Iestatījumi → JavaScript).
 	JavaScript is turned off (Preferences ▸ JavaScript).	JavaScript ir izslēgts (Iestatījumi > JavaScript).
 	JavaScript is turned off by your administrator.	JavaScript ir izslēdzis jūsu administrators.
 	JavaScript, e.g. getField("total").value	JavaScript, piem., getField("total").value
@@ -3384,7 +3384,7 @@ key	Shift	Shift
 	Signatures and seals are not carried over or checked.	Paraksti un zīmogi netiek pārnesti vai pārbaudīti.
 	Signatures made under a trusted certificate are shown as valid. Trust only certificates from a source you trust, and compare each fingerprint with the one its authority publishes.	Paraksti, kas veikti ar uzticamu sertifikātu, tiek rādīti kā derīgi. Uzticieties tikai sertifikātiem no uzticama avota un salīdziniet katru ciparvirkni ar tās iestādes publicēto.
 	Signatures panel	Parakstu panelis
-	Signed after this signature, so what they signed includes it: {names}.	Parakstīts pēc šī paraksta, tāpēc to parakstītais to ietver: {names}.
+	Signed after this signature, so what they signed includes it: {names}.	Parakstīts pēc šī paraksta, tāpēc šis paraksts ir iekļauts viņu parakstītajā saturā: {names}.
 	Signed and all signatures are valid.	Parakstīts, un visi paraksti ir derīgi.
 	Signed and saved to {path}	Parakstīts un saglabāts: {path}
 	Signed and saved to {path}, without some revocation information: {problems}	Parakstīts un saglabāts: {path}, bez daļas atsaukšanas informācijas: {problems}
@@ -4040,7 +4040,7 @@ calendar weekday	Th	Ce
 	This is the last PDF in its folder	Šis ir pēdējais PDF tā mapē
 	This is the last try before the token's PIN locks. A wrong PIN here may lock it permanently.	Šis ir pēdējais mēģinājums, pirms marķiera PIN tiek bloķēts. Nepareizs PIN to var bloķēt neatgriezeniski.
 	This key is used for “{what}” and can't be changed.	Šis taustiņš tiek izmantots darbībai „{what}” un nav maināms.
-	This key moves around the interface on its own. Add Ctrl to use it.	Šis taustiņš pats pārvieto pa saskarni. Pievienojiet Ctrl, lai to izmantotu.
+	This key moves around the interface on its own. Add Ctrl to use it.	Šis taustiņš pats pārvietojas pa saskarni. Pievienojiet Ctrl, lai to izmantotu.
 	This large file is being read from disk to save memory, so it can't be edited, filled in or signed yet.	Šis lielais fails tiek lasīts no diska, lai taupītu atmiņu, tāpēc to vēl nevar rediģēt, aizpildīt vai parakstīt.
 	This machine: {ram} GB RAM, {disk} GB free	Šis dators: {ram} GB RAM, {disk} GB brīvi
 	This measurement needs at least {n} points.	Šim mērījumam vajadzīgi vismaz {n} punkti.
@@ -4062,7 +4062,7 @@ calendar weekday	Th	Ce
 	This printer only prints one-sided.	Šis printeris drukā tikai vienpusēji.
 	This printer's driver doesn't take two-sided settings from other programs, so its own setting applies. Change it in Properties…	Šī printera draiveris nepieņem abpusējās drukas iestatījumus no citām programmām, tāpēc tiek lietots tā paša iestatījums. Mainiet to sadaļā Rekvizīti…
 	this signature can't be removed on its own	šo parakstu nevar noņemt atsevišķi
-	This signature uses an RSA key shorter than 2048 bits, which is no longer considered strong enough for signatures. It still validates, but it should not be relied on.	Šis paraksts izmanto RSA atslēgu, kas īsāka par 2048 bitiem un parakstiem vairs netiek uzskatīta par pietiekami stipru. Tas joprojām tiek validēts, bet uz to nevajadzētu paļauties.
+	This signature uses an RSA key shorter than 2048 bits, which is no longer considered strong enough for signatures. It still validates, but it should not be relied on.	Šis paraksts izmanto par 2048 bitiem īsāku RSA atslēgu, kas parakstiem vairs netiek uzskatīta par pietiekami stipru. Tas joprojām tiek validēts, bet uz to nevajadzētu paļauties.
 	This signature uses RIPEMD-160, a legacy 160-bit hash algorithm that is no longer recommended for signatures. It still validates, but it should not be relied on.	Šis paraksts izmanto RIPEMD-160, mantotu 160 bitu jaucējalgoritmu, kas parakstiem vairs netiek ieteikts. Tas joprojām tiek validēts, bet uz to nevajadzētu paļauties.
 	This signature uses SHA-1, a weak hash algorithm: collisions in it have been demonstrated. It still validates because many documents signed years ago use it, but it should not be relied on.	Šis paraksts izmanto SHA-1, vāju jaucējalgoritmu, kam ir pierādītas sadursmes. Tas joprojām tiek validēts, jo daudzi pirms gadiem parakstīti dokumenti to izmanto, bet uz to nevajadzētu paļauties.
 	this signing service can't be used: it needs OAuth sign-in in a browser, which PdfCraft doesn't support yet	šo parakstīšanas pakalpojumu nevar izmantot: tam vajadzīga OAuth pieteikšanās pārlūkā, ko PdfCraft vēl neatbalsta
